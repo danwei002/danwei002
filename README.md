@@ -2,9 +2,7 @@
 
 ### I'm a Software Engineering student at the University of Waterloo
 
-- 🖥️ My favorite fields of software: web development, game development, and robotics
-- 🌱 I’m currently in my second-year of Software Engineering @ uWaterloo, looking for Fall 2022 internships!
-- 🎮 My hobbies: I love gaming, playing chess, playing badminton, and watching Netflix
+- 🌱 Currently in my second-year of Software Engineering @ uWaterloo
 - 📫 How to reach me: d28wei@uwaterloo.ca (school) or danwei002@gmail.com (personal)
 - 🌍 Want to know more? Check out my repos or my [website](https://danwei.netlify.app/)
 
