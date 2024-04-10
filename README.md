@@ -1,9 +1,9 @@
 ### Hi! I'm Daniel.
 
-### I'm a Software Engineering student at the University of Waterloo
+### I'm a student at the University of Waterloo
 
-- 🌱 Currently in my third year of Software Engineering @ uWaterloo
-- 📫 How to reach me: d28wei@uwaterloo.ca (school) or danwei002@gmail.com (personal)
+- 🌱 Currently in my fourth year of Software Engineering @ uWaterloo
+- 📫 How to reach me: d28wei@uwaterloo.ca/danwei002@gmail.com
 - 🌍 Want to know more? Check out my repos or my [website](https://danwei.netlify.app/)
 
 <!--
